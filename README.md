@@ -11,11 +11,11 @@ bash cmd
 git clone https://github.com/mohit7759/IT5016--Software-Development-Fundamentals.git
 Navigate to the project directory:
 
-bash cmd
+bash cmd :
 cd Software_project
 Run the Python program:
 
-bash cmd
+bash cmd :
 python Software_project.py
 
 Follow the on-screen menu instructions to interact with the system:
