@@ -7,16 +7,15 @@ Requirements :Python 3.12
 How to Use
 Clone the repository to your local machine:
 
-bash
-Copy code
-git clone https://github.com/mohit/help-desk-ticketing.git
+bash cmd
+git clone https://github.com/mohit7759/IT5016--Software-Development-Fundamentals.git
 Navigate to the project directory:
 
-bash
+bash cmd
 cd Software_project
 Run the Python program:
 
-bash
+bash cmd
 python Software_project.py
 
 Follow the on-screen menu instructions to interact with the system:
